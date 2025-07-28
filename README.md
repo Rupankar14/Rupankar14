@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Rupankar Mukherjee
-- 👀 I’m interested in Web development,python related projects
-- 🌱 I’m currently pursuing B.Tech at Narula Institute of Technology (4th year) my subject is Information Technology
-- To work in a challenging and dynamic environment and to keep adding value to the organization that I
-represent and serve, while also concurrently upgrading my skills and knowledge.
-My skills - programming profiency - C C++ Java Python
-          - web development - HTML CSS JS React Node PHP Wordpress
+👨‍💻 Rupankar Mukherjee
+IT Engineer | Programmer Analyst Trainee @ Cognizant
+📍 CIS Autom Tools and Platform Domain
+🔧 Tools: Splunk, Dynatrace
+💻 Code: Java, C, Python
+🌐 Web: HTML, CSS, JavaScript
+
+Passionate about automation, monitoring tools, and full-stack development. Always exploring new technologies and building efficient solutions.
 
 
 <!---
